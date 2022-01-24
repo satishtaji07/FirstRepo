@@ -1,0 +1,74 @@
+
+24/Jan/2022 01:18:38,659- TestBaseClass: Now product is created with name Product_2020_New
+24/Jan/2022 01:18:40,267- TestBaseClass: New product is added as Product_2020_New and validated Product_2020_New
+24/Jan/2022 01:18:49,636- TestBaseClass: Quantity of Product_2020_New is updated to 20
+24/Jan/2022 01:18:57,673- TestBaseClass: MO updated
+24/Jan/2022 11:09:38,809- TestBaseClass: New product is created with name PROD123
+24/Jan/2022 11:17:12,096- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:28:32,653- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:29:56,050- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:42:28,059- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:52:11,557- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:53:22,778- TestBaseClass: New product is created with name PD123
+24/Jan/2022 11:54:55,115- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:05:09,175- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:15:42,034- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:20:54,340- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:23:42,832- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:33:26,796- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:38:03,019- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:38:04,653- TestBaseClass: New product is added as PD123 and validated PD123
+24/Jan/2022 12:38:12,847- TestBaseClass: Quantity of PD123 is updated to 20
+24/Jan/2022 12:46:31,957- TestBaseClass: New product is created with name PD123
+24/Jan/2022 12:47:51,900- TestBaseClass: New product is created with name PRRD14241
+24/Jan/2022 12:47:53,384- TestBaseClass: New product is added as PRRD14241 and validated PRRD14241
+24/Jan/2022 12:48:01,568- TestBaseClass: Quantity of PRRD14241 is updated to 20
+24/Jan/2022 13:05:01,431- TestBaseClass: New product is created with name POBM14124
+24/Jan/2022 13:05:03,213- TestBaseClass: New product is added as POBM14124 and validated POBM14124
+24/Jan/2022 13:05:12,114- TestBaseClass: Quantity of POBM14124 is updated to 20
+24/Jan/2022 13:22:00,966- TestBaseClass: New product is created with name PLATE141
+24/Jan/2022 13:22:02,164- TestBaseClass: New product is added as PLATE141 and validated PLATE141
+24/Jan/2022 13:22:10,623- TestBaseClass: Quantity of PLATE141 is updated to 20
+24/Jan/2022 13:26:12,848- TestBaseClass: New product is created with name PULL141
+24/Jan/2022 13:26:14,435- TestBaseClass: New product is added as PULL141 and validated PULL141
+24/Jan/2022 13:26:22,429- TestBaseClass: Quantity of PULL141 is updated to 20
+24/Jan/2022 13:31:32,897- TestBaseClass: New product is created with name Put1523
+24/Jan/2022 13:31:34,145- TestBaseClass: New product is added as Put1523 and validated Put1523
+24/Jan/2022 13:31:42,387- TestBaseClass: Quantity of Put1523 is updated to 20
+24/Jan/2022 13:34:43,247- TestBaseClass: New product is created with name PLABAT45
+24/Jan/2022 13:34:44,660- TestBaseClass: New product is added as PLABAT45 and validated PLABAT45
+24/Jan/2022 13:34:52,730- TestBaseClass: Quantity of PLABAT45 is updated to 20
+24/Jan/2022 13:39:23,602- TestBaseClass: New product is created with name PLMAND
+24/Jan/2022 13:39:24,969- TestBaseClass: New product is added as PLMAND and validated PLMAND
+24/Jan/2022 13:39:33,101- TestBaseClass: Quantity of PLMAND is updated to 20
+24/Jan/2022 13:44:51,303- TestBaseClass: New product is created with name PLVSBSFG
+24/Jan/2022 13:44:52,592- TestBaseClass: New product is added as PLVSBSFG and validated PLVSBSFG
+24/Jan/2022 13:45:00,747- TestBaseClass: Quantity of PLVSBSFG is updated to 20
+24/Jan/2022 13:53:14,444- TestBaseClass: New product is created with name PKNLMH
+24/Jan/2022 13:53:15,988- TestBaseClass: New product is added as PKNLMH and validated PKNLMH
+24/Jan/2022 13:53:24,086- TestBaseClass: Quantity of PKNLMH is updated to 20
+24/Jan/2022 14:02:30,693- TestBaseClass: New product is created with name PUTYIONMJH
+24/Jan/2022 14:02:31,911- TestBaseClass: New product is added as PUTYIONMJH and validated PUTYIONMJH
+24/Jan/2022 14:02:40,012- TestBaseClass: Quantity of PUTYIONMJH is updated to 20
+24/Jan/2022 14:07:12,302- TestBaseClass: New product is created with name PBMJIOKN
+24/Jan/2022 14:07:13,580- TestBaseClass: New product is added as PBMJIOKN and validated PBMJIOKN
+24/Jan/2022 14:07:21,651- TestBaseClass: Quantity of PBMJIOKN is updated to 20
+24/Jan/2022 14:31:21,199- TestBaseClass: New product is created with name PR_INDIA
+24/Jan/2022 14:31:22,554- TestBaseClass: New product is added as PR_INDIA and validated PR_INDIA
+24/Jan/2022 14:31:31,315- TestBaseClass: Quantity of PR_INDIA is updated to 20
+24/Jan/2022 14:35:21,098- TestBaseClass: New product is created with name PRTUDFSJ
+24/Jan/2022 14:35:22,855- TestBaseClass: New product is added as PRTUDFSJ and validated PRTUDFSJ
+24/Jan/2022 14:35:31,178- TestBaseClass: Quantity of PRTUDFSJ is updated to 20
+24/Jan/2022 14:55:17,134- TestBaseClass: Inventory Opened
+24/Jan/2022 14:55:18,576- TestBaseClass: Product Section opened
+24/Jan/2022 14:55:23,711- TestBaseClass: New Product initiated
+24/Jan/2022 14:55:24,295- TestBaseClass: New Product Details Added
+24/Jan/2022 14:55:24,394- TestBaseClass: New product is created with name PR_MANUFACTURE
+24/Jan/2022 14:55:25,982- TestBaseClass: New product is added as PR_MANUFACTURE and validated PR_MANUFACTURE
+24/Jan/2022 14:55:34,206- TestBaseClass: Quantity of PR_MANUFACTURE is updated to 20
+24/Jan/2022 14:55:38,066- TestBaseClass: New Product Product Bill initiated
+24/Jan/2022 14:55:45,058- TestBaseClass: New Product Bill Added
+24/Jan/2022 14:55:49,436- TestBaseClass: New manufacturing Order Created
+24/Jan/2022 14:55:52,218- TestBaseClass: Order Details Entered Sussessfully
+24/Jan/2022 14:55:56,838- TestBaseClass: New manufacturing Order Confirmed
+24/Jan/2022 14:56:02,906- TestBaseClass: New manufacturing Order validated
